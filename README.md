@@ -15,7 +15,8 @@
 
 ## Config
 
-- `model(default: mistral)` | options -> `['mistral', 'codellama', 'llama2', 'gemma', 'orca-mini', 'phi-2', 'starling']`
+- `model(default: mistral)`
+    - `['mistral', 'codellama', 'llama2', 'gemma', 'orca-mini', 'phi-2', 'starling']`
 
 ```lua
     
